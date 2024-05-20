@@ -1,0 +1,10 @@
+#bg{
+    background-image: linear-gradient(to right top, #910a67, #ac3a6b, #c26074, #d48485, #e2a89d, #e7b3a8, #edbfb4, #f2cac0, #f0c0ba, #eeb7b7, #ebadb4, #e6a4b4);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.songcardsmall{
+    background-color: #F5EEE6;
+}
